@@ -1,6 +1,5 @@
-## Olá! Eu sou o Bruno Torres 🖐️
+## Olá! Eu sou o Bruno Torres 🖐, seja bem vindo (a) ao perfil no github!!
 
-## Olá! Eu sou o Bruno Torres 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/bruno-torres-41650b244)
 
