@@ -1,6 +1,10 @@
 ## Olá! Eu sou o Bruno Torres 🖐️
 
+## Olá! Eu sou o Bruno Torres 🖐️
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/bruno-torres-41650b244)
+
+![BRUNO GitHub stats](https://github-readme-stats.vercel.app/api?username=devbruno&show_icons=true&theme=radical)
 
 ## Tecnologias que eu utilizo.
 
@@ -13,4 +17,4 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação
